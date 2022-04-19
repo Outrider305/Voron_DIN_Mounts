@@ -5,7 +5,7 @@ Various DIN rail mounts for Voron components.
 
 # BOM
 
-- M3x5x4 heatset inserts (standard Voron heatset inserts)
+- M3x5x4 heatset inserts
 - M3x6 button head screws
 - Self-tapping M2x10 screws for Trident/v2.4r2 PCB DIN clip mounts
 - <a href="https://github.com/VoronDesign/Voron-Trident/blob/main/STLs/ElectronicsBay/pcb_din_clip_v2_x5.stl"> Voron PCB DIN clip</a>
@@ -13,7 +13,7 @@ Various DIN rail mounts for Voron components.
 
 # BTT SKR Mini E3 DIN Mount
 
-Modified standard SKR Mini E3 from Voron V0 repo (https://github.com/VoronDesign/Voron-0) to use PCB DIN clips from the current Trident and v2.4r2 releases. 
+Modified standard SKR Mini E3 from <a href="https://github.com/VoronDesign/Voron-0"> Voron V0 repo</a> to use current Trident and v2.4r2 PCB DIN clips and M3 heatset inserts. 
 
 # BTT SKR Mini E3 SSR DIN Mount
 
@@ -21,12 +21,12 @@ Modified SKR Mini E3 mount from V0 to use with a SSR DIN mount. I recommend this
 
 # Mellow Fly-UTOC DIN Mount
 
-Based on timmit99's Klipper_Expander board. Uses Trident/v2.4 PCB DIN rail clip.
+Based on timmit99's <a href="https://github.com/VoronDesign/Voron-Hardware/tree/master/Klipper_Expander"> Klipper_Expander mount</a>. Uses Trident/v2.4 PCB DIN rail clip and M3 inserts.
 
 # Klipper_Expander Mount
 
-Based on timmit99's original Klipper_Expander mount located at: https://github.com/VoronDesign/Voron-Hardware/tree/master/Klipper_Expander. Changes include mounting holes to fit PCB DIN clips from the current Trident and v2.4r2 releases. Also has been modified to use standard voron M3x5x4 heatset inserts.
+Modified from on timmit99's original Klipper_Expander mount. Changes include mounting holes to fit Trident and v2.4r2 PCB DIN clips. Also has been modified to use standard voron M3 heatset inserts.
 
 # Raspberry Pi DIN SSR Moount
 
-Adapted from https://www.thingiverse.com/thing:5222787. Recommended if mounting the RPi on a vertical DIN rail.
+Adapted from https://www.thingiverse.com/thing:5222787. Recommended if mounting the RPi on a vertical DIN rail. Uses M3 heatset inserts. WARNING: Raspberry Pi's typically use M2.5 for mounting. I carefully enlarged the mounting holes my Rpi with an M3 reamer. A 1/8 inch drill bit can be used, however I recommend the M3 reamer as it is a useful to have onhand for other prints.
