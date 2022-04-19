@@ -8,6 +8,8 @@ Various DIN rail mounts for Voron components.
 - M3x5x4 heatset inserts (standard Voron heatset inserts)
 - M3x6 button head screws
 - Self-tapping M2x10 screws for Trident/v2.4r2 PCB DIN clip mounts
+- <a href="https://github.com/VoronDesign/Voron-Trident/blob/main/STLs/ElectronicsBay/pcb_din_clip_v2_x5.stl"> Voron PCB DIN clip</a>
+- SSR DIN Rail mount (can be found at various Voron vendor sites)
 
 # BTT SKR Mini E3 DIN Mount
 
