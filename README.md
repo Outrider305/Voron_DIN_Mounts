@@ -27,6 +27,6 @@ Based on timmit99's <a href="https://github.com/VoronDesign/Voron-Hardware/tree/
 
 Modified from on timmit99's original Klipper_Expander mount. Changes include mounting holes to fit Trident and v2.4r2 PCB DIN clips. Also has been modified to use standard voron M3 heatset inserts.
 
-# Raspberry Pi DIN SSR Moount
+# Raspberry Pi DIN SSR Mount
 
 Adapted from https://www.thingiverse.com/thing:5222787. Recommended if mounting the RPi on a vertical DIN rail. Uses M3 heatset inserts. WARNING: Raspberry Pi's typically use M2.5 for mounting. I carefully enlarged the mounting holes my Rpi with an M3 reamer. A 1/8 inch drill bit can be used, however I recommend the M3 reamer as it is a useful to have onhand for other prints.
