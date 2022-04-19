@@ -1,6 +1,8 @@
 # Voron_DIN_Mounts
 Various DIN rail mounts for Voron components.
 
+<img src="Images/Voron_DIN_Mounts.png" width="700">
+
 # BOM
 
 - M3x5x4 heatset inserts (standard Voron heatset inserts)
