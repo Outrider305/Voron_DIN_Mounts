@@ -9,7 +9,7 @@ Various DIN rail mounts for Voron components.
 - M3x6 button head screws
 - Self-tapping M2x10 screws for Trident/v2.4r2 PCB DIN clip mounts
 - <a href="https://github.com/VoronDesign/Voron-Trident/blob/main/STLs/ElectronicsBay/pcb_din_clip_v2_x5.stl"> Voron PCB DIN clip</a>
-- SSR DIN Rail mount (can be found at various Voron vendor sites)
+- SSR DIN Rail mount (can be found at various Voron vendors like Fabreeko, KB-3D, West3D, etc.)
 
 # BTT SKR Mini E3 DIN Mount
 
@@ -29,4 +29,6 @@ Modified from on timmit99's original Klipper_Expander mount. Changes include mou
 
 # Raspberry Pi DIN SSR Mount
 
-Adapted from https://www.thingiverse.com/thing:5222787. Recommended if mounting the RPi on a vertical DIN rail. Uses M3 heatset inserts. WARNING: Raspberry Pi's typically use M2.5 for mounting. I carefully enlarged the mounting holes my Rpi with an M3 reamer. A 1/8 inch drill bit can be used, however I recommend the M3 reamer as it is a useful to have onhand for other prints.
+Adapted from https://www.thingiverse.com/thing:5222787. Recommended if mounting the RPi on a vertical DIN rail. Uses M3 heatset inserts. 
+
+WARNING: Raspberry Pi's typically use M2.5 screws for mounting. I carefully enlarged the mounting holes on my Rpi with an M3 reamer. A 1/8 inch drill bit can be used, however I recommend getting an M3 reamer for the job.
